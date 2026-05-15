@@ -8,15 +8,15 @@ All READMEs for this class should have the following sections:
 
 ## General information
 
-What is this repo for?
+This repo provides examples of fitting, diagnosing, and visualizing linear model predictions.
 
-Whose repo is it? Who is contributing to it?
+This is a fork of a repo from the ENVS-193DS-2026 organization.
 
 ## Data and file information
 
-What files are there?
+There is a `data` folder in which data files are stored.
 
-What code is there, and what does it do?
+There is a `code` folder in which all code for linear models are stored.
 
 ## Rendered output
 
