@@ -20,4 +20,4 @@ There is a `code` folder in which all code for linear models are stored.
 
 ## Rendered output
 
-Link to the rendered output. Make sure it is a **working url**. You can test this by sharing the url with someone else to open on their computer - if it doesn't work, that means your GitHub pages set up didn't work.
+The rendered .pdf for the abalone linear model is [here] (file:///C:/github/workshop-07_spring-2026/code/abalone-example.pdf).
