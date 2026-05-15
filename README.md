@@ -22,4 +22,4 @@ There is a `code` folder in which all code for linear models are stored.
 
 The rendered .pdf for the abalone linear model is [here](https://github.com/Knowknono/workshop-07_spring-2026/blob/main/code/abalone-example.pdf).
 
-Ther rendered .pdf for the temperature linear model is [here](https://github.com/Knowknono/workshop-07_spring-2026/blob/main/code/sonadora-temperature-example.pdf)
+Ther rendered .pdf for the temperature linear model is [here](https://github.com/Knowknono/workshop-07_spring-2026/blob/main/code/sonadora-temperature-example.pdf).
